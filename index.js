@@ -1,10 +1,10 @@
 "use strict";
 
 const sons = {
-  A: "teemo_4.wav",
+  A: "boom.wav",
   S: "clap.wav",
   D: "hihat.wav",
-  F: "Bass1.mp3",
+  F: "openhat.wav",
   G: "kick.wav",
   H: "ride.wav",
   J: "snare.wav",
